@@ -41,6 +41,7 @@ chat_anticurse.simplemask[20] = " с" .. ""..y4.."кс"
 chat_anticurse.simplemask[21] = " f" .. ""..x3.."ck"
 chat_anticurse.simplemask[22] = ""..x1.."rs"..x4.."h"..x5.."l"..x4..""
 chat_anticurse.simplemask[23] = " c"..x3.."nt "
+chat_anticurse.simplemask[24] = " ..x1.."s" .. "shole "
 
 
 
